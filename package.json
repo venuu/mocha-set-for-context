@@ -1,0 +1,26 @@
+{
+  "name": "mocha-set-for-context",
+  "version": "0.0.0",
+  "description": "Test helper for mocha used to set object values for a describe block",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/venuu/mocha-set-for-context"
+  },
+  "keywords": [
+    "mocha",
+    "rspec",
+    "test",
+    "let",
+    "set"
+  ],
+  "author": "Vesa Laakso <vesa.laakso@venuu.fi>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venuu/mocha-set-for-context/issues"
+  },
+  "homepage": "https://github.com/venuu/mocha-set-for-context"
+}
