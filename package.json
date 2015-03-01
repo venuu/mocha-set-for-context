@@ -1,6 +1,6 @@
 {
   "name": "mocha-set-for-context",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Test helper for mocha used to set object values for a describe block",
   "main": "index.js",
   "scripts": {
